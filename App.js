@@ -40,12 +40,11 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>r05, L31 /js</Text>
+              <Text style={styles.sectionTitle}>r07 H, L31 /js</Text>
               <Text style={styles.sectionTitle}>MainActivity.kt</Text>
               <Text style={styles.sectionTitle}>MainApplication.kt</Text>
               <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
+                (Note. Swift is not implemented.)
               </Text>
             </View>
             <View style={styles.sectionContainer}>
