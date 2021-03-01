@@ -40,7 +40,7 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>r04, L31 /js</Text>
+              <Text style={styles.sectionTitle}>r05, L31 /js</Text>
               <Text style={styles.sectionTitle}>MainActivity.kt</Text>
               <Text style={styles.sectionTitle}>MainApplication.kt</Text>
               <Text style={styles.sectionDescription}>
